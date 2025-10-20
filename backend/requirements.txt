@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.0.1
+numpy==1.26.4
+tiktoken==0.7.0
+python-multipart==0.0.17
+pdfminer.six==20240706
+python-docx==1.1.2
+markdown==3.6
+# Optional if using OpenAI
+openai==1.51.0
